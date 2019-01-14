@@ -1,0 +1,7 @@
+/*
+!test_springboot_dubbo_api
+!test_springboot_dubbo_provider
+!test_springboot_dubbo_consumer
+!.gitignore
+!README.md
+!pom.xml
